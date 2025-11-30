@@ -7,7 +7,7 @@ Track your daily habits, maintain streaks, share your progress with friends & fa
 ---
 ## 🚀 Live Demo
 
-👉 https://habitcabin.vercel.app
+👉 hhabit-cabin-zjgr.vercel.app
 
 
 ## 🌐 Backend API

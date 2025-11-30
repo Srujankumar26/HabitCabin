@@ -5,9 +5,9 @@ A beautiful, full-stack habit tracking app built with **React** and **Node.js**.
 Track your daily habits, maintain streaks, share your progress with friends & family, and enjoy a modern glowing UI.
 
 ---
-## 🚀 Live Demo
+## 🚀 Live Website
+https://habit-cabin.vercel.app
 
-👉 hhabit-cabin-zjgr.vercel.app
 
 
 ## 🌐 Backend API

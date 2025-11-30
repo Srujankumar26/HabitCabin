@@ -6,7 +6,9 @@ Track your daily habits, maintain streaks, share your progress with friends & fa
 
 ---
 ## 🚀 Live Demo
-👉 https://habitchain.vercel.app
+
+👉 https://habitcabin.vercel.app
+
 
 ## 🌐 Backend API
 👉 https://habitchain-backend.onrender.com/api

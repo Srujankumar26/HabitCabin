@@ -6,7 +6,7 @@ import MembersPanel from "./components/MembersPanel";
 import Login from "./components/Login";
 import Toast from "./components/Toast";
 
-const API_URL = "https://habitcabin-1.onrender.com";
+const API_URL = "https://habitcabin-1.onrender.com/api";
 
 function App() {
   const [habits, setHabits] = useState([]);

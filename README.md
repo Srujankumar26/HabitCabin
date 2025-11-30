@@ -5,6 +5,12 @@ A beautiful, full-stack habit tracking app built with **React** and **Node.js**.
 Track your daily habits, maintain streaks, share your progress with friends & family, and enjoy a modern glowing UI.
 
 ---
+## 🚀 Live Demo
+👉 https://habitchain.vercel.app
+
+## 🌐 Backend API
+👉 https://habitchain-backend.onrender.com/api
+
 
 ## ✨ Features
 
